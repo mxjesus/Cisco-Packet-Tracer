@@ -2,7 +2,7 @@
 
 Objetivo: Terminar la segunda parte del curso con conocimientos más sólidos de los temas vistos en el curso configurando la siguiente topología. 
 
-![alt text](https://github.com/mxjesus/Cisco-Packet-Tracer/tree/main/Temas%20Selectos%20de%20Ingenier%C3%ADa%20en%20Computaci%C3%B3n%20III%20(CCNP)?raw=true)
+![alt text](https://github.com/mxjesus/Cisco-Packet-Tracer/blob/main/Temas%20Selectos%20de%20Ingenier%C3%ADa%20en%20Computaci%C3%B3n%20III%20(CCNP)/Topolog%C3%ADa.png?raw=true)
 
 Se configura lo siguiente:
 
