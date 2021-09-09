@@ -25,3 +25,7 @@ La topologia contiene:
 - PortFast
 - Enrutamiento OSPF
 - NAT dinamico
+
+Topología.
+
+![alt text](https://github.com/mxjesus/Cisco-Packet-Tracer/blob/main/Diplomado%20-%20CCNA/Topolog%C3%ADa.PNG?raw=true)
