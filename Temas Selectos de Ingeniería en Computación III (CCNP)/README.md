@@ -20,39 +20,50 @@ Se configura lo siguiente:
 LABORATORIO DE REDES Y SEGURIDAD 3
 * Configuración de un IPS en Router 4 denegando el ping
 * Configuración de usuarios y vistas en Router 4:
+    
     usuario5 -> Nivel 5 de privilegios
     * ping
     * configure terminal
     * hostname
+    
     usuario9 -> Nivel 9 de privilegios
     * show running-config
     * interface fastethernet
     * ip address
+    
     usuario59 ->Nivel 15 de privilegios
     * Todos los comandos del sistema
+    
     usuario3 -> Nivel 3 de privilegios
     * show running-config
     * show ip route
     * show privilege
+    
     usuario7 -> Nivel 7 de privilegios
     * configure terminal
     * router rip
     * network (redes para el enrutamiento de rip)
+    
     usuario37 -> Nivel 15 de privilegios
     * Todos los comandos del sistema
+    
+    Vistas
+    
     vista1
     * configure terminal
     * ip dhcp pool
     * show ip route
+    
     vista2
     * clock set
     * show ip interface brief
-    LABORATORIO DE REDES Y SEGURIDAD 4
     * show clock
+    
     vista3
     * show cdp neighbors
     * show version
     * ping
+    
     vista4
     * configure terminal
     * logging host
