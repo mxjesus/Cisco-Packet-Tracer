@@ -4,9 +4,9 @@ Objetivo: Terminar la segunda parte del curso con conocimientos más sólidos de
 
 ![alt text](https://github.com/mxjesus/Cisco-Packet-Tracer/blob/main/Temas%20Selectos%20de%20Ingenier%C3%ADa%20en%20Computaci%C3%B3n%20III%20(CCNP)/Topolog%C3%ADa.png?raw=true)
 
-# Configuración
+# Configuración que se realizo
 
-* Protocolo de enrutamiento libre.
+* Protocolo de enrutamiento por RIPv2 y de manera estática.
 * Acceso a R4 por Radius y de manera local
 * Acceso a R2 por Tacacs y Radius
 * Conexión de host a router inalámbrico por medio de Radius
